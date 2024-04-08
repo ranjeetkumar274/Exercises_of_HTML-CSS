@@ -1,0 +1,240 @@
+
+     .exercise{
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 5px;
+    }
+
+    .new{
+        text-align: center;
+        color: rgb(255, 136, 0);
+        font-size: 12px;
+        font-weight: bold;
+        margin-bottom: 0px;
+        font-family: arial;
+    }
+
+    .macbook{
+        text-align: center;
+        font-weight: bold;
+        margin-top: 0px;
+        font-size: 19px;
+        margin-bottom: 0px;
+        font-family: arial;
+    }
+
+    .pros{
+        text-align: center;
+        font-family: arial;
+        margin-top: 0px;
+        font-weight: bolder;
+        font-size: 29px;
+        margin-bottom: 0px;
+    }
+
+    .price{
+        text-align: center;
+        font-family: arial;
+        margin-top: 0px;
+        font-size: 12px;
+        line-height: 29px;
+        margin-bottom: 0px;
+    }
+
+    .buy-button{
+        display: block;
+        background-color: rgb(0, 113, 227);
+        border: none;
+        color: white;
+        border-radius: 17px;
+       padding-left: 10px;
+       padding-right: 10px;
+       padding-top: 4px;
+       padding-bottom: 4px;
+       margin-top: 0px;
+       cursor: pointer;
+       margin: 0 auto;
+       width: fit-content;
+       margin-top: 0px;
+       font-family: arial;
+    }
+
+    .buy-button:hover{
+        opacity: 0.9;
+    }
+
+    .market-price{
+        font-family: arial;
+        font-size: 26px;
+        font-weight: lighter;
+        margin-bottom: 0px;
+    }
+
+    .currency{
+        font-size: 13px;
+        font-weight: lighter;
+        color: rgb(83, 83, 83);
+        margin-bottom: 0px;
+    }
+
+    .gain{
+        font-family: arial;
+        color: green;
+        margin-top: 0px;
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 0px;
+    }
+
+    .early-gain{
+        font-family: arial;
+        margin-top: 0px;
+        color: red;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .early-price{
+        font-family: arial;
+        margin-top: 0px;
+        font-size: 13px;
+        line-height: 22px;
+        color: rgb(83, 83, 83);
+    }
+
+    .web{
+        font-family: arial;
+        font-weight: bold;
+        font-size: 14px;
+        margin-bottom: 0px;
+        line-height: 30px;
+    }
+
+    .username{
+        font-weight: lighter;
+        color: rgb(70, 77, 84);
+        margin-bottom: 0px;
+    }
+
+    .about{
+        font-family: arial;
+        margin-top: 0px;
+        font-size: 14px;
+        width: 450px;
+    }
+
+    .last{
+        font-family: arial;
+        font-size: 14px;
+    }
+
+    .user{
+        color: rgb(0, 113, 227);
+        cursor: pointer;
+    }
+
+    .card{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 12px;
+        padding-right: 12px;
+        width: 300px;
+        border-radius: 6px;
+        height: 40px;
+        margin-left: 595px;
+        
+      }
+    .profile{
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        vertical-align: middle;
+        object-fit: cover;
+        margin-right: 5px;
+    }
+
+    .tweet-button{
+        background-color: rgb(0, 113, 227);
+        border: none;
+        height: 29px;
+        border-radius: 14px;
+        width: 70;
+        color: white;
+        cursor: pointer;
+        vertical-align: middle;
+    }
+
+    .tweet-button:hover{
+        opacity: 0.9;
+    }
+
+    .input-text{
+        border: none;
+        vertical-align: middle;
+        width: 190px;
+        outline: none;
+    }
+
+    .profile-containers{
+        width: 120px;
+        height: 210px;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    .img-profile{
+        height: 130px;
+        width: 120px;
+        object-fit: cover;
+        margin-bottom: 0px;
+    }
+
+    .img-name{
+        font-family: arial;
+        font-weight: bold;
+        margin-top: 0px;
+        padding-top: 2px;
+        padding-left: 6px;
+        font-size: 14px;
+        margin-bottom: 0px;
+       }
+
+    .Mutual-friends{
+        margin-top: 0px;
+        padding-top: 4px;
+        margin-left: 6px;
+        font-family: arial;
+        font-size: 11px;
+        margin-bottom: 0px;
+        color: dimgrey;
+    }
+
+    .add-friend{
+        background-color: rgb(0, 113, 227);
+        border: none;
+        height: 25px;
+        border-radius: 3px;
+        width: 70;
+        color: white;
+        cursor: pointer;
+        vertical-align: middle;
+        margin-left: 6px;  
+        margin-top: 6px;
+
+     }
+
+    .add-friend:hover{
+        opacity: 0.9;
+    }
+
+    .all-profiles{
+        padding-top: 20px;
+        margin-left: 550px;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+        margin-right: 545px;
+        padding-bottom: 20px;
+        border-radius: 5px;
+    }
