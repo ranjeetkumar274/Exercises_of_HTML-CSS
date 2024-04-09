@@ -1,5 +1,4 @@
-
-     .exercise{
+.exercise{
         text-align: center;
         background-color: black;
         color: white;
@@ -237,4 +236,58 @@
         margin-right: 545px;
         padding-bottom: 20px;
         border-radius: 5px;
+    }
+
+    .google-img{
+        width: 250px;
+        height: 80px;
+        margin-left: 640px;
+        margin-bottom: 9px;
+    }
+
+    .google-button{
+        margin-left: 500px;
+        border: none;
+        width: 500px;
+        padding: 14px;
+        background-color: white;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+        border-radius: 30px;
+        font-family:arial;
+        font-size: 16px;
+        color: dimgrey;
+        outline: none;
+        margin-bottom: 20PX;
+    }
+
+    .google-search{
+        margin-left: 650px;
+        display: inline-block;
+        border: none;
+        width: 130px;
+        height: 40px;
+        margin-right: 10px;
+        font-family:arial;
+        font-size: 16px;
+        color: rgb(10, 10, 10);
+        cursor: pointer;
+    }
+
+    .google-search:hover{
+        background-color: rgb(193, 193, 193);
+    }
+
+    .lucky{
+        border: none;
+        width: 130px;
+        height: 40px;
+        margin-right: 10px;
+        font-family:arial;
+        font-size: 16px;
+        color: rgb(10, 10, 10);
+        cursor: pointer;
+    }
+
+    .lucky:hover{
+        background-color: rgb(193, 193, 193);
     }
